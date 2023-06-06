@@ -1,0 +1,38 @@
+body {
+   background-color: #1C1C1C;
+   color: 	#ffffff;
+   font-family: monospace;
+   padding: 24px;
+}
+
+.h1 {
+    font-size: 30px;
+    color: #4a8b3d;
+}
+
+
+li{
+    margin-bottom: 20px;
+    color: ffffff;
+    font-size: 20px;
+}
+
+input {
+    height: 20px;
+    background-color: transparent;
+    color: white;
+    border-color: #4a8b3d;
+    border-radius: 4px;
+    font-size: 12px;
+    padding: 10px;
+}
+
+button {
+    font-size: 16px;
+    padding: 10px;
+    background-color:#4a8b3d;
+    border-width: 0px;
+    border-radius: 4px;
+    color: white;
+    font-weight: bold;
+}
